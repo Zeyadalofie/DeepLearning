@@ -1,2 +1,2 @@
 # DeepLearning
-Just for Learning aabout DeepLearning
+Just for Learning about DeepLearning
